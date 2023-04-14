@@ -61,28 +61,20 @@
 
 @media only screen and (max-width: 600px) {
   .about h2 {
-    font-size: 50px;
-    height: 30px;
+    font-size: 10px;
+    height: 20px;
+    padding-bottom: 20px;
   }
   .home p{
     line-height: 1.5;
     margin: 40px 0;
-    padding: 20px 0;
+    padding: 40px 0;
   }
   .about .prompt {
     width: 80%;
     font-size: 20px;
+    padding: 50px auto;
   }
   
-  .skills {
-    font-size: 25px;
-  }
   
-  .skills .list {
-    width: 80%;
-  }
-  
-  .list span {
-    font-size: 16px;
-  }
 }
